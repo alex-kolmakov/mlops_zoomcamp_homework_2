@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/helloworld/Projects/MLops%20Zoomcamp/mlops_zoomcamp_homework_2/mlruns/0/c4df9f146fb54082aff9d68efc305b1b/artifacts
+end_time: 1716625675153
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c4df9f146fb54082aff9d68efc305b1b
+run_name: illustrious-roo-776
+run_uuid: c4df9f146fb54082aff9d68efc305b1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716625669405
+status: 3
+tags: []
+user_id: helloworld

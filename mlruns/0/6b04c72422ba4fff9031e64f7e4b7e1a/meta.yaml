@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/helloworld/Projects/MLops%20Zoomcamp/mlops_zoomcamp_homework_2/mlruns/0/6b04c72422ba4fff9031e64f7e4b7e1a/artifacts
+end_time: 1716625842145
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6b04c72422ba4fff9031e64f7e4b7e1a
+run_name: nosy-croc-994
+run_uuid: 6b04c72422ba4fff9031e64f7e4b7e1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716625836171
+status: 3
+tags: []
+user_id: helloworld

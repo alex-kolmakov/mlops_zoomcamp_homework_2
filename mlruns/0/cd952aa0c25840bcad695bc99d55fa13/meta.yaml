@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/helloworld/Projects/MLops%20Zoomcamp/mlops_zoomcamp_homework_2/mlruns/0/cd952aa0c25840bcad695bc99d55fa13/artifacts
+end_time: 1716626163674
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cd952aa0c25840bcad695bc99d55fa13
+run_name: hilarious-ant-393
+run_uuid: cd952aa0c25840bcad695bc99d55fa13
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716626157949
+status: 3
+tags: []
+user_id: helloworld
